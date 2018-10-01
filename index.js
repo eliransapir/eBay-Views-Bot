@@ -2,8 +2,8 @@ const request = require('request');
 const log = require('./logger');
 
 const config = {
-  "webhook":"https://discordapp.com/api/webhooks/482003297977368576/ILKa6L4FN6g2zLFqEi--av7KRJCQc0p3pzCMhTL5QBB7Ib89JGXqnrNvcqK6opgDFv7j", // Your webhook here
-  "requestURL":"https://www.ebay.com/itm/173561322320", // Your product link here
+  "webhook":"WEBHOOK", // Your webhook here
+  "requestURL":"LINK", // Your product link here
   "refreshRate":1000
 }
 log("Starting...");
